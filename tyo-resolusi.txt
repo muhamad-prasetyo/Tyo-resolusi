@@ -5,4 +5,3 @@ Resolusi Saya Ditahun Ini
   ->Belajar bahasa dart dan flutter.
   ->Semoga saya mendapatkan pekerjaan bagian Web Developer sebagai Junior.
   ->Kolaborasi dengan lebih banyak expert.
-  ->Membuat project evaling pertama.
